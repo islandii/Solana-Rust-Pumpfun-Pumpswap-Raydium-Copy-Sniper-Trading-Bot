@@ -1,4 +1,4 @@
-# Solana Copy Trading Bot (Fast Copy Trading in 0 Block)   [@coffellas](https://t.me/coffellas)
+# Solana Copy Trading Bot (Fast Copy Trading in 0 Block)
 
 ## Overview
 
